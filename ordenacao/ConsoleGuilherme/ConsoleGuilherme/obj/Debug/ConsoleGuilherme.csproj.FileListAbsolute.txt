@@ -1,0 +1,21 @@
+D:\Guilherme Coelho\META\TRABALHO FINAL\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.exe.config
+D:\Guilherme Coelho\META\TRABALHO FINAL\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.exe
+D:\Guilherme Coelho\META\TRABALHO FINAL\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.pdb
+D:\Guilherme Coelho\META\TRABALHO FINAL\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.exe
+D:\Guilherme Coelho\META\TRABALHO FINAL\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.pdb
+D:\Guilherme Coelho\META\TRABALHO FINAL\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.exe.config
+C:\Users\Guilherme\Desktop\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.exe
+C:\Users\Guilherme\Desktop\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.pdb
+C:\Users\Guilherme\Desktop\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.exe
+C:\Users\Guilherme\Desktop\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.pdb
+C:\Users\Guilherme\Desktop\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.csprojResolveAssemblyReference.cache
+E:\Guilherme\A M F\6° Semestre\Tópicos Avançados de Programação\TAP Guilherme\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.exe.config
+E:\Guilherme\A M F\6° Semestre\Tópicos Avançados de Programação\TAP Guilherme\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.exe
+E:\Guilherme\A M F\6° Semestre\Tópicos Avançados de Programação\TAP Guilherme\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.pdb
+E:\Guilherme\A M F\6° Semestre\Tópicos Avançados de Programação\TAP Guilherme\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.exe
+E:\Guilherme\A M F\6° Semestre\Tópicos Avançados de Programação\TAP Guilherme\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.pdb
+E:\Guilherme\A M F\6° Semestre\Tópicos Avançados de Programação\TAP Guilherme\TAP Guilherme\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\ConsoleGuilherme\ConsoleGuilherme\bin\Debug\ConsoleGuilherme.exe.config
+C:\Users\Guilherme\Desktop\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.exe
+C:\Users\Guilherme\Desktop\ConsoleGuilherme\ConsoleGuilherme\obj\Debug\ConsoleGuilherme.pdb
